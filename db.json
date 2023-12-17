@@ -1,0 +1,204 @@
+{
+    "country" :[
+    {
+        "Detail": "Kawaguchi - Beautiful Landscapes about various tours in JAPAN",
+        "Location": "JAPAN",
+        "Image": "https://assets.traveltriangle.com/blog/wp-content/uploads/2018/02/Kawaguchi1.jpg",
+        "Price": 60000,
+        "Details": "Japan's most natural wonder! While this city in Japan is more famous for its Lake Kawaguchiko and the breathtaking views of Mt.Fuji in the front, it is equally known for being a paradisiacal gem for the culture vultures.",
+        "Time": "4 mins read",
+        "Date": "29-June-2021",
+        "id": "1"
+    },
+    {
+        "Detail": "Kuala Lumpur is Malaysia's vibrant capital city that bustles with excitement from day to night.",
+        "Location": "MALAYSIA",
+        "Image": "https://www.holidify.com/images/bgImages/KUALA-LUMPUR.jpg",
+        "Price": 80000,
+        "Details": "Visit in Malaysia · Kuala Lumpur · Penang · Sarawak · Johor · Pahang · Christ Church · Batu Caves · Gunung Gading National Park.",
+        "Time": "5 mins read",
+        "Date": "29-June-2022",
+        "id": "2"
+    },
+    {
+        "Detail": "The Statue of Liberty is a 305-foot (93-metre) statue located on Liberty Island in New York City. ",
+        "Location": " AMERICA",
+        "Image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQslq-30n4GkazGlcU6XWAd3dr2i9OqgN02vIsNkR3N6Czg1r6PqBfLv7ZScA&s",
+        "Price": 100000,
+        "Details": "The statue is a personification of liberty in the form of a woman. She holds a torch in her raised right hand and clutches a tablet in her left. The Statue of Liberty is most well known for its impressive presence in New York Harbor.",
+        "Time": "6 mins read",
+        "Date": "29-May-2019",
+        "id": "3"
+    },
+    {
+        "Detail": "Is the tomb of the Mughal Emperor Humayum in Delhi, India",
+        "Location": "HUMAYUNS TOMB",
+        "Image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnvfwAaCj__g83nub08qg0OQ4Px-Y8c64bhw&usqp=CAU",
+        "Price": 55000,
+        "Details": "This tomb, built in 1570, is of particular cultural significance as it was the first garden-tomb on the Indian subcontinent.",
+        "Time": "2 mins read",
+        "Date": "25-June-2021",
+        "id": "4"
+    },
+    {
+        "Detail": "letest News about the temple Borobudur Yogykarta area",
+        "Location": "BOROBUDUR",
+        "Image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRX5CqkTjLyETbVx8VTtDECOIe-nIsfT14O0I4NzcW51KWvOStZudp2ULAlAoZaegGaeWA&usqp=CAU",
+        "Price": 60000,
+        "Details": "At Borobudur, geometry, geomancy, and theology all instruct adherents toward the ultimate goal of enlightenment.",
+        "Time": "4 mins read",
+        "Date": "18-July-2021",
+        "id": "5"
+    },
+    {
+        "Detail": "The letest news about kuta toriusm bali area of month",
+        "Location": "KUTA BALI",
+        "Image": "https://images.hindustantimes.com/rf/image_size_630x354/HT/p2/2019/11/17/Pictures/_cf8f7c16-090a-11ea-8da7-95ed4a38ab68.jpg",
+        "Price": 40000,
+        "Details": "Kuta is a tourist area, administratively an urban village (kelurahan), and the capital of Kuta District, Badung Regency, southern Bali, Indonesia.",
+        "Time": "2 mins read",
+        "Date": "18-June-2021",
+        "id": "6"
+    },
+    {
+        "Detail": "The largest metropolis and the most popular tourist place in Australia.",
+        "Location": "NEWS Australia",
+        "Image": "https://pyt-blogs.imgix.net/2022/11/sydney-opera-house-g5f04208c5_1920.jpg?auto=format&fit=scale&h=684&ixlib=php-3.3.0&w=1024&wpsize=large",
+        "Price": 120000,
+        "Details": "The capital city of New South Wales, Sydney is a modern city developed around a scenic harbour offering wonderful cuisine, nightlife, shopping, and iconic attractions.",
+        "Time": "6 mins read",
+        "Date": "20-May-2022",
+        "id": "7"
+    },
+    {
+        "Detail": "Jardin Massey, and Chateau fort de Lourdes.",
+        "Location": "Lourdes",
+        "Image": "https://assets.traveltriangle.com/blog/wp-content/uploads/2016/07/Lourdes-in-France.jpg",
+        "Price": 140000,
+        "Details": "Lourdes is very significant and awe inspiring pilgrimage site, known for Our Lady shrine. Located at the foothills of Pyrenees, this market town is a must see among all the places to visit in France.",
+        "Time": "7 mins read",
+        "Date": "22-May-2019",
+        "id": "8"
+    },
+    {
+        "Detail": "Cubbon Park The Most Happening Places to Visit in Bangalore. ",
+        "Location": "BANGALORE INDIA",
+        "Image": "https://img.traveltriangle.com/blog/wp-content/uploads/2020/01/places-to-visit-in-Bangalore-in-June1.jpg",
+        "Price": 60000,
+        "Details": "Bangalore, popularly known as the 'Garden City' represents a rich cultural heritage of the past era combined with modern and high-tech facilities.",
+        "Time": "4 mins read",
+        "Date": "27-July-2023",
+        "id": "9"
+    },
+    {
+        "Detail": "Its construction started in 1173, and it got tilted afterwards. ",
+        "Location": "LEANING TOWER OF PISA",
+        "Image": "https://img.traveltriangle.com/blog/wp-content/uploads/2020/01/places-to-visit-in-Bangalore-in-June1.jpg",
+        "Price": 80000,
+        "Details": "The city of Pisa is famous for its tourist attractions, but the Leaning Tower of Pisa is matchless. This is regarded as the most popular monument in Italy and one of the Seven Wonders of the World.",
+        "Time": "5 mins read",
+        "Date": "21-July-2023",
+        "id": "10"
+    },
+    {
+        "Detail": "Sri Lanka has always been an affordable destination to visit for all kinds of travelers.",
+        "Location": "SRI LANKA",
+        "Image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxg26SWDTHJYaYcuDePu65CKNgorSZ7AAp5w&usqp=CAU",
+        "Price": 3999,
+        "Details": "The land of golden beaches and tall mountains, the land of surf and party and the land of historical, cultural sites, the land of high trekking and the land of ancient kings.",
+        "Time": "4 mins read",
+        "Date": "29-June-2022",
+        "id": "11"
+    },
+    {
+        "Detail": "London is a super one-week getaway. ",
+        "Location": "LONDAN",
+        "Image": "https://www.holidify.com/images/bgImages/LONDON.jpg",
+        "Price": 120000,
+        "Details": "Big Ben, Tower of London, Tower Bridge, London Eye, Buckingham Palace, Hyde Park, St Paul's Cathedral, Madame Tussauds, Sea Life London Aquarium.",
+        "Time": "2 mins read",
+        "Date": "21-June-2019",
+        "id": "12"
+    },
+    {
+        "Detail": "Visit Germany.",
+        "Location": "GERMANY",
+        "Image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp1OSwiA4nyzdPMq6pu0b4QaNLf4ESDvbwfQ&usqp=CAU",
+        "Price": 97000,
+        "Details": "Berlin. Many people absolutely love Berlin and think it's the most beautiful city in Germany.",
+        "Time": "1 mins read",
+        "Date": "15-May-2021",
+        "id": "13"
+    },
+    {
+        "Detail": "Singapore is hands down the best city to get your shop on.",
+        "Location": "SINGAPORE",
+        "Image": "https://wanderon.in/_next/image?url=https%3A%2F%2Fdr7f10k1l6bnm.cloudfront.net%2Fwp-content%2Fuploads%2F2023%2F10%2F1-min-17-scaled.jpg&w=3840&q=75",
+        "Price": 78000,
+        "Details": "Aside from its postcard-worthy attractions, Singapore is famous for its melting pot of food hubs, tidiness, and shopping centres",
+        "Time": "4 mins read",
+        "Date": "20-June-2022",
+        "id": "14"
+    },
+    {
+        "Detail": "Something new",
+        "Location": "Shari Beatty",
+        "Image": "https://www.godigit.com/content/dam/godigit/directportal/en/contenthm/places-to-visit-in-singapore.jpg",
+        "Price": 56000,
+        "Details": "Terbium",
+        "Time": "4 mins read",
+        "Date": "20-June-2021",
+        "id": "15"
+    },
+    {
+        "Detail": "The Capital of United States, Washington, DC is a legatee of neoclassic beauty.",
+        "Location": "AMERICA",
+        "Image": "https://www.holidify.com/images/bgImages/WASHINGTON-DC.jpg",
+        "Price": 1400,
+        "Details": "A city which is not only famous for its museums and monuments, but also for the cultural style it embosses with its nightlife, performing art venues and trendy shops.",
+        "Time": "2 mins red",
+        "Date": "20-June-2022",
+        "id": "16"
+    },
+    {
+        "Detail": "Japan is situated in the Pacific Ocean and is a picturesque island country.",
+        "Location": "JAPAN",
+        "Image": "https://www.godigit.com/content/dam/godigit/directportal/en/contenthm/top-31-tourist-places-in-japan.jpg",
+        "Price": 70000,
+        "Details": "Japan is a beautiful country filled with surprises for every type of traveller, from adventure seekers to history buffs. The country offers you a lot to do and see, from temples and shrines to mountains, gardens, palaces, and skyscrapers.",
+        "Time": "4 mins read",
+        "Date": "29-June-2021",
+        "id": "17"
+    },
+    {
+        "Detail": "Along with Mount Tate and Mount Haku, Mount Fuji forms the 'Three Holy Mountains' in Japan",
+        "Location": "JAPAN",
+        "Image": "https://www.godigit.com/content/dam/godigit/directportal/en/contenthm/mt-fuji-honshu-japan.jpg",
+        "Price": 95000,
+        "Details": "Mt. Fuji is the epitome of natural beauty and is a haven for mountaineers. The mountain has many names: Fuji-san, Fujisan, Sanmyaku, and Hakone-san. A  UNESCO World Heritage Site since 2013, Mt. Fuji has been considered sacred since ancient times, and it is one of the few tourist places in Japan where you can see snow on top of a volcano.",
+        "Time": "5 mins read",
+        "Date": "20-June-2021",
+        "id": "18"
+    },
+    {
+        "Detail": "This special place is amongst the beautiful USA landmarks to visit.",
+        "Location": "AMERICA",
+        "Image": "https://www.travanya.com/wp-content/uploads/2022/05/Glacier-National-Park-Montana.webp",
+        "Price": 90000,
+        "Details": "his place being one of the most famous places in America is definitely worth a visit. And not just its natural beauty, the Glacier National Park also offers a variety of activities and attractions that will appeal to everyone in your group. So, if you’re wondering whether or not it is among the most famous things in USA, the answer is absolute yes!",
+        "Time": "5 mins red",
+        "Date": "20-June-2022",
+        "id": "19"
+    },
+    {
+        "Detail": "Old Towns of Malacca & George (Penang)",
+        "Location": "MALAYSIA",
+        "Image": "https://www.insidetravel.com/uploads/photo-e/Malaysia-Blogs/7-Most-visited-Tourist-Attractions-In-Malaysia/Cameron-Highlands-ori.jpg",
+        "Price": 75000,
+        "Details": "Escaping from the modern life of the bigger metropolises, Malacca and George Town in Penang are two historic attractions featuring unique cultural heritage of East-meets-West architecture and multi-ethnic community. Once thriving and busy ports, two towns are the home to numerous colonial buildings, ancient shophouses, and magnificent traditional sites, which showcase their hundreds of years of cultural and trade exchange between the East and the West in the past.",
+        "Time": "6 mins read",
+        "Date": "29-June-2022",
+        "id":"20"
+   }
+]
+}
